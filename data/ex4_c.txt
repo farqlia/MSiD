@@ -1,0 +1,2101 @@
+ITERATION 1
+	gradient_value = [0.75 3.75]
+	next step = 0.03
+	step_size = [0.0225 0.1125]
+	next_point = [-0.5225  0.8875]
+	f([-0.5225  0.8875]) = 3.262012671972656
+L1 = 0.1147279390558377
+ITERATION 2
+	gradient_value = [0.16572984 3.07246875]
+	next step = 0.04
+	step_size = [0.00703132 0.13035381]
+	next_point = [-0.52953132  0.75714619]
+	f([-0.52953132  0.75714619]) = 2.9076752360974236
+L1 = 0.13054330730261404
+ITERATION 3
+	gradient_value = [-0.53456035  2.38371385]
+	next step = 0.05
+	step_size = [-0.02777657  0.1238614 ]
+	next_point = [-0.50175475  0.63328479]
+	f([-0.50175475  0.63328479]) = 2.6191743768767797
+L1 = 0.12693772298970155
+ITERATION 4
+	gradient_value = [-1.08917988  1.90763478]
+	next step = 0.06
+	step_size = [-0.06535079  0.11445809]
+	next_point = [-0.43640396  0.5188267 ]
+	f([-0.43640396  0.5188267 ]) = 2.33283707569665
+L1 = 0.13180052993243438
+ITERATION 5
+	gradient_value = [-1.43975209  1.64189142]
+	next step = 0.07
+	step_size = [-0.09658151  0.11014142]
+	next_point = [-0.33982245  0.40868527]
+	f([-0.33982245  0.40868527]) = 2.0100485636241974
+L1 = 0.1464893196798637
+ITERATION 6
+	gradient_value = [-1.68326517  1.46602988]
+	next step = 0.07
+	step_size = [-0.12369422  0.10773075]
+	next_point = [-0.21612823  0.30095452]
+	f([-0.21612823  0.30095452]) = 1.6405667658597796
+L1 = 0.16403102214410845
+ITERATION 7
+	gradient_value = [-1.88276533  1.27121554]
+	next step = 0.08
+	step_size = [-0.14943987  0.10089961]
+	next_point = [-0.06668836  0.20005491]
+	f([-0.06668836  0.20005491]) = 1.233479876225347
+L1 = 0.18031362602920661
+ITERATION 8
+	gradient_value = [-2.00292924  0.97803788]
+	next step = 0.08
+	step_size = [-0.16995418  0.08298927]
+	next_point = [0.10326582 0.11706565]
+	f([0.10326582 0.11706565]) = 0.832435562464345
+L1 = 0.18913392628656903
+ITERATION 9
+	gradient_value = [-1.90334507  0.5320091 ]
+	next step = 0.09
+	step_size = [-0.17130106  0.04788082]
+	next_point = [0.27456687 0.06918483]
+	f([0.27456687 0.06918483]) = 0.5263493869201961
+L1 = 0.17786687379330368
+ITERATION 10
+	gradient_value = [-1.43383723 -0.03101069]
+	next step = 0.09
+	step_size = [-0.13602574 -0.00294193]
+	next_point = [0.41059262 0.07212676]
+	f([0.41059262 0.07212676]) = 0.37066216752179376
+L1 = 0.13605755361182034
+ITERATION 11
+	gradient_value = [-0.78275903 -0.48229768]
+	next step = 0.10
+	step_size = [-0.07788354 -0.04798801]
+	next_point = [0.48847616 0.12011478]
+	f([0.48847616 0.12011478]) = 0.2967588187762216
+L1 = 0.09148057319985421
+ITERATION 12
+	gradient_value = [-0.44423186 -0.59247091]
+	next step = 0.10
+	step_size = [-0.04616593 -0.06157138]
+	next_point = [0.53464209 0.18168616]
+	f([0.53464209 0.18168616]) = 0.2436791697261075
+L1 = 0.0769566643537807
+ITERATION 13
+	gradient_value = [-0.373854   -0.52078001]
+	next step = 0.11
+	step_size = [-0.04043849 -0.05633097]
+	next_point = [0.57508058 0.23801713]
+	f([0.57508058 0.23801713]) = 0.20203999075935145
+L1 = 0.06934298841046317
+ITERATION 14
+	gradient_value = [-0.31673602 -0.46350272]
+	next step = 0.11
+	step_size = [-0.03555353 -0.05202805]
+	next_point = [0.61063411 0.29004518]
+	f([0.61063411 0.29004518]) = 0.16875733654299585
+L1 = 0.06301564547936822
+ITERATION 15
+	gradient_value = [-0.27295066 -0.41414417]
+	next step = 0.12
+	step_size = [-0.031714  -0.0481192]
+	next_point = [0.64234811 0.33816439]
+	f([0.64234811 0.33816439]) = 0.14177065554700327
+L1 = 0.05763016340030378
+ITERATION 16
+	gradient_value = [-0.23709675 -0.37223355]
+	next step = 0.12
+	step_size = [-0.02845161 -0.04466803]
+	next_point = [0.67079972 0.38283241]
+	f([0.67079972 0.38283241]) = 0.1196422240759199
+L1 = 0.052959669701511704
+ITERATION 17
+	gradient_value = [-0.20802661 -0.33569927]
+	next step = 0.12
+	step_size = [-0.02573147 -0.04152371]
+	next_point = [0.69653119 0.42435612]
+	f([0.69653119 0.42435612]) = 0.10133479126275474
+L1 = 0.048850043527964036
+ITERATION 18
+	gradient_value = [-0.18344956 -0.30399791]
+	next step = 0.13
+	step_size = [-0.02334932 -0.03869262]
+	next_point = [0.71988051 0.46304873]
+	f([0.71988051 0.46304873]) = 0.0860787931608429
+L1 = 0.04519191586190561
+ITERATION 19
+	gradient_value = [-0.1630146  -0.27589606]
+	next step = 0.13
+	step_size = [-0.02131692 -0.03607809]
+	next_point = [0.74119743 0.49912683]
+	f([0.74119743 0.49912683]) = 0.07329062331637143
+L1 = 0.04190512997879499
+ITERATION 20
+	gradient_value = [-0.14517707 -0.25123405]
+	next step = 0.13
+	step_size = [-0.01947755 -0.03370658]
+	next_point = [0.76067498 0.53283341]
+	f([0.76067498 0.53283341]) = 0.06251896570376228
+L1 = 0.038929535287019756
+ITERATION 21
+	gradient_value = [-0.13031401 -0.22896509]
+	next step = 0.14
+	step_size = [-0.01791521 -0.0314775 ]
+	next_point = [0.7785902  0.56431091]
+	f([0.7785902  0.56431091]) = 0.05340960614768546
+L1 = 0.03621860878901849
+ITERATION 22
+	gradient_value = [-0.11665426 -0.20945894]
+	next step = 0.14
+	step_size = [-0.01641471 -0.02947349]
+	next_point = [0.7950049  0.59378439]
+	f([0.7950049  0.59378439]) = 0.04568034093641655
+L1 = 0.03373616751640542
+ITERATION 23
+	gradient_value = [-0.10591347 -0.19124204]
+	next step = 0.14
+	step_size = [-0.0152383  -0.02751494]
+	next_point = [0.8102432  0.62129933]
+	f([0.8102432  0.62129933]) = 0.0391043130560204
+L1 = 0.03145278131420513
+ITERATION 24
+	gradient_value = [-0.09435082 -0.17597357]
+	next step = 0.15
+	step_size = [-0.01386668 -0.02586273]
+	next_point = [0.82410988 0.64716206]
+	f([0.82410988 0.64716206]) = 0.03349654037238586
+L1 = 0.029345622293379222
+ITERATION 25
+	gradient_value = [-0.08810594 -0.15997521]
+	next step = 0.15
+	step_size = [-0.01321589 -0.02399628]
+	next_point = [0.83732577 0.67115834]
+	f([0.83732577 0.67115834]) = 0.028706325960381956
+L1 = 0.027394913273439313
+ITERATION 26
+	gradient_value = [-0.07451821 -0.14978056]
+	next step = 0.15
+	step_size = [-0.01139909 -0.02291202]
+	next_point = [0.84872487 0.69407036]
+	f([0.84872487 0.69407036]) = 0.0246086001230309
+L1 = 0.025591014116833278
+ITERATION 27
+	gradient_value = [-0.07964505 -0.13131771]
+	next step = 0.16
+	step_size = [-0.01241544 -0.02047041]
+	next_point = [0.8611403  0.71454076]
+	f([0.8611403  0.71454076]) = 0.02110746770993592
+L1 = 0.023941188795726515
+ITERATION 28
+	gradient_value = [-0.0450233  -0.13510929]
+	next step = 0.16
+	step_size = [-0.00714723 -0.02144793]
+	next_point = [0.86828753 0.7359887 ]
+	f([0.86828753 0.7359887 ]) = 0.018152294118443393
+L1 = 0.02260744844086776
+ITERATION 29
+	gradient_value = [-0.10770161 -0.08967268]
+	next step = 0.16
+	step_size = [-0.01739973 -0.01448706]
+	next_point = [0.88568726 0.75047576]
+	f([0.88568726 0.75047576]) = 0.0159516525924726
+L1 = 0.0226412355563358
+ITERATION 30
+	gradient_value = [ 0.07220841 -0.16983077]
+	next step = 0.16
+	step_size = [ 0.01186505 -0.02790604]
+	next_point = [0.8738222 0.7783818]
+	f([0.8738222 0.7783818]) = 0.016469662620092952
+L1 = 0.030323698957659122
+ITERATION 31
+	gradient_value = [-0.38182599  0.07408281]
+	next step = 0.17
+	step_size = [-0.06377751  0.01237427]
+	next_point = [0.93759972 0.76600754]
+	f([0.93759972 0.76600754]) = 0.03586473159492543
+L1 = 0.06496686789411885
+ITERATION 32
+	gradient_value = [ 0.9354906  -0.56542848]
+	next step = 0.17
+	step_size = [ 0.15875802 -0.09595639]
+	next_point = [0.7788417  0.86196393]
+	f([0.7788417  0.86196393]) = 0.21194499733828387
+L1 = 0.185504011758228
+ITERATION 33
+	gradient_value = [-2.43124106  1.27684769]
+	next step = 0.17
+	step_size = [-0.4189925   0.22004795]
+	next_point = [1.1978342  0.64191598]
+	f([1.1978342  0.64191598]) = 1.610827825563239
+L1 = 0.47326082775858186
+ITERATION 34
+	gradient_value = [ 9.89318524 -3.96445388]
+	next step = 0.17
+	step_size = [ 1.73060062 -0.6934962 ]
+	next_point = [-0.53276642  1.33541218]
+	f([-0.53276642  1.33541218]) = 5.113882711235092
+L1 = 1.864380719326195
+ITERATION 35
+	gradient_value = [2.53689031 5.2578606 ]
+	next step = 0.18
+	step_size = [0.45025336 0.93317768]
+	next_point = [-0.98301978  0.4022345 ]
+	f([-0.98301978  0.4022345 ]) = 4.7278708789460175
+L1 = 1.03612194343127
+ITERATION 36
+	gradient_value = [-9.51118931 -2.82046701]
+	next step = 0.18
+	step_size = [-1.71201408 -0.50768406]
+	next_point = [0.72899429 0.90991856]
+	f([0.72899429 0.90991856]) = 0.43157299893865
+L1 = 1.7857030266743514
+ITERATION 37
+	gradient_value = [-3.30115188  1.8924294 ]
+	next step = 0.18
+	step_size = [-0.60240369  0.34533596]
+	next_point = [1.33139798 0.5645826 ]
+	f([1.33139798 0.5645826 ]) = 3.7582140418175958
+L1 = 0.6943681511661542
+ITERATION 38
+	gradient_value = [16.74658926 -6.04018992]
+	next step = 0.18
+	step_size = [ 3.09698728 -1.11702694]
+	next_point = [-1.7655893   1.68160954]
+	f([-1.7655893   1.68160954]) = 12.801541975263106
+L1 = 3.2922757159355993
+ITERATION 39
+	gradient_value = [-30.87967426  -7.1784802 ]
+	next step = 0.19
+	step_size = [-5.78530512 -1.34488783]
+	next_point = [4.01971582 3.02649737]
+	f([4.01971582 3.02649737]) = 440.2171551846941
+L1 = 5.93956889086945
+ITERATION 40
+	gradient_value = [533.89315362 -65.65808949]
+	next step = 0.19
+	step_size = [101.29910356 -12.45774658]
+	next_point = [-97.27938774  15.48424395]
+	f([-97.27938774  15.48424395]) = 223161736.38150194
+L1 = 102.06225468421131
+ITERATION 41
+	gradient_value = [-9190953.72323147   -47238.97517341]
+	next step = 0.19
+	step_size = [-1765524.55651041    -9074.31080653]
+	next_point = [1765427.27712268    9089.79505048]
+	f([1765427.27712268    9089.79505048]) = 2.428506867850023e+25
+L1 = 1765547.8760877335
+ITERATION 42
+	gradient_value = [ 5.50236627e+19 -1.55836673e+13]
+	next step = 0.19
+	step_size = [ 1.06978227e+19 -3.02981121e+12]
+	next_point = [-1.06978227e+19  3.02981122e+12]
+	f([-1.06978227e+19  3.02981122e+12]) = 3.274323558779835e+76
+L1 = 1.0697822704805915e+19
+ITERATION 43
+	gradient_value = [-1.22429532e+58 -5.72217053e+38]
+	next step = 0.20
+	step_size = [-2.40847238e+57 -1.12568344e+38]
+	next_point = [2.40847238e+57 1.12568344e+38]
+	f([2.40847238e+57 1.12568344e+38]) = 8.412143862821642e+229
+L1 = 2.408472382223851e+57
+ITERATION 44
+	gradient_value = [ 1.39709202e+173 -2.90036961e+115]
+	next step = 0.20
+	step_size = [ 2.78017802e+172 -5.77166265e+114]
+	next_point = [-2.78017802e+172  5.77166265e+114]
+	f([-2.78017802e+172  5.77166265e+114]) = inf
+L1 = inf
+ITERATION 45
+	gradient_value = [-inf -inf]
+	next step = 0.20
+	step_size = [-inf -inf]
+	next_point = [inf inf]
+	f([inf inf]) = nan
+L1 = inf
+ITERATION 46
+	gradient_value = [nan nan]
+	next step = 0.20
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 47
+	gradient_value = [nan nan]
+	next step = 0.21
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 48
+	gradient_value = [nan nan]
+	next step = 0.21
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 49
+	gradient_value = [nan nan]
+	next step = 0.21
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 50
+	gradient_value = [nan nan]
+	next step = 0.21
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 51
+	gradient_value = [nan nan]
+	next step = 0.21
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 52
+	gradient_value = [nan nan]
+	next step = 0.22
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 53
+	gradient_value = [nan nan]
+	next step = 0.22
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 54
+	gradient_value = [nan nan]
+	next step = 0.22
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 55
+	gradient_value = [nan nan]
+	next step = 0.22
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 56
+	gradient_value = [nan nan]
+	next step = 0.22
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 57
+	gradient_value = [nan nan]
+	next step = 0.23
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 58
+	gradient_value = [nan nan]
+	next step = 0.23
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 59
+	gradient_value = [nan nan]
+	next step = 0.23
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 60
+	gradient_value = [nan nan]
+	next step = 0.23
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 61
+	gradient_value = [nan nan]
+	next step = 0.23
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 62
+	gradient_value = [nan nan]
+	next step = 0.24
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 63
+	gradient_value = [nan nan]
+	next step = 0.24
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 64
+	gradient_value = [nan nan]
+	next step = 0.24
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 65
+	gradient_value = [nan nan]
+	next step = 0.24
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 66
+	gradient_value = [nan nan]
+	next step = 0.24
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 67
+	gradient_value = [nan nan]
+	next step = 0.25
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 68
+	gradient_value = [nan nan]
+	next step = 0.25
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 69
+	gradient_value = [nan nan]
+	next step = 0.25
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 70
+	gradient_value = [nan nan]
+	next step = 0.25
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 71
+	gradient_value = [nan nan]
+	next step = 0.25
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 72
+	gradient_value = [nan nan]
+	next step = 0.25
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 73
+	gradient_value = [nan nan]
+	next step = 0.26
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 74
+	gradient_value = [nan nan]
+	next step = 0.26
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 75
+	gradient_value = [nan nan]
+	next step = 0.26
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 76
+	gradient_value = [nan nan]
+	next step = 0.26
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 77
+	gradient_value = [nan nan]
+	next step = 0.26
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 78
+	gradient_value = [nan nan]
+	next step = 0.26
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 79
+	gradient_value = [nan nan]
+	next step = 0.27
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 80
+	gradient_value = [nan nan]
+	next step = 0.27
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 81
+	gradient_value = [nan nan]
+	next step = 0.27
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 82
+	gradient_value = [nan nan]
+	next step = 0.27
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 83
+	gradient_value = [nan nan]
+	next step = 0.27
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 84
+	gradient_value = [nan nan]
+	next step = 0.27
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 85
+	gradient_value = [nan nan]
+	next step = 0.28
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 86
+	gradient_value = [nan nan]
+	next step = 0.28
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 87
+	gradient_value = [nan nan]
+	next step = 0.28
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 88
+	gradient_value = [nan nan]
+	next step = 0.28
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 89
+	gradient_value = [nan nan]
+	next step = 0.28
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 90
+	gradient_value = [nan nan]
+	next step = 0.28
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 91
+	gradient_value = [nan nan]
+	next step = 0.29
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 92
+	gradient_value = [nan nan]
+	next step = 0.29
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 93
+	gradient_value = [nan nan]
+	next step = 0.29
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 94
+	gradient_value = [nan nan]
+	next step = 0.29
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 95
+	gradient_value = [nan nan]
+	next step = 0.29
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 96
+	gradient_value = [nan nan]
+	next step = 0.29
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 97
+	gradient_value = [nan nan]
+	next step = 0.30
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 98
+	gradient_value = [nan nan]
+	next step = 0.30
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 99
+	gradient_value = [nan nan]
+	next step = 0.30
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 100
+	gradient_value = [nan nan]
+	next step = 0.30
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 101
+	gradient_value = [nan nan]
+	next step = 0.30
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 102
+	gradient_value = [nan nan]
+	next step = 0.30
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 103
+	gradient_value = [nan nan]
+	next step = 0.30
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 104
+	gradient_value = [nan nan]
+	next step = 0.31
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 105
+	gradient_value = [nan nan]
+	next step = 0.31
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 106
+	gradient_value = [nan nan]
+	next step = 0.31
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 107
+	gradient_value = [nan nan]
+	next step = 0.31
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 108
+	gradient_value = [nan nan]
+	next step = 0.31
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 109
+	gradient_value = [nan nan]
+	next step = 0.31
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 110
+	gradient_value = [nan nan]
+	next step = 0.31
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 111
+	gradient_value = [nan nan]
+	next step = 0.32
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 112
+	gradient_value = [nan nan]
+	next step = 0.32
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 113
+	gradient_value = [nan nan]
+	next step = 0.32
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 114
+	gradient_value = [nan nan]
+	next step = 0.32
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 115
+	gradient_value = [nan nan]
+	next step = 0.32
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 116
+	gradient_value = [nan nan]
+	next step = 0.32
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 117
+	gradient_value = [nan nan]
+	next step = 0.32
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 118
+	gradient_value = [nan nan]
+	next step = 0.33
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 119
+	gradient_value = [nan nan]
+	next step = 0.33
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 120
+	gradient_value = [nan nan]
+	next step = 0.33
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 121
+	gradient_value = [nan nan]
+	next step = 0.33
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 122
+	gradient_value = [nan nan]
+	next step = 0.33
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 123
+	gradient_value = [nan nan]
+	next step = 0.33
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 124
+	gradient_value = [nan nan]
+	next step = 0.33
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 125
+	gradient_value = [nan nan]
+	next step = 0.34
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 126
+	gradient_value = [nan nan]
+	next step = 0.34
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 127
+	gradient_value = [nan nan]
+	next step = 0.34
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 128
+	gradient_value = [nan nan]
+	next step = 0.34
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 129
+	gradient_value = [nan nan]
+	next step = 0.34
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 130
+	gradient_value = [nan nan]
+	next step = 0.34
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 131
+	gradient_value = [nan nan]
+	next step = 0.34
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 132
+	gradient_value = [nan nan]
+	next step = 0.34
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 133
+	gradient_value = [nan nan]
+	next step = 0.35
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 134
+	gradient_value = [nan nan]
+	next step = 0.35
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 135
+	gradient_value = [nan nan]
+	next step = 0.35
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 136
+	gradient_value = [nan nan]
+	next step = 0.35
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 137
+	gradient_value = [nan nan]
+	next step = 0.35
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 138
+	gradient_value = [nan nan]
+	next step = 0.35
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 139
+	gradient_value = [nan nan]
+	next step = 0.35
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 140
+	gradient_value = [nan nan]
+	next step = 0.35
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 141
+	gradient_value = [nan nan]
+	next step = 0.36
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 142
+	gradient_value = [nan nan]
+	next step = 0.36
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 143
+	gradient_value = [nan nan]
+	next step = 0.36
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 144
+	gradient_value = [nan nan]
+	next step = 0.36
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 145
+	gradient_value = [nan nan]
+	next step = 0.36
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 146
+	gradient_value = [nan nan]
+	next step = 0.36
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 147
+	gradient_value = [nan nan]
+	next step = 0.36
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 148
+	gradient_value = [nan nan]
+	next step = 0.36
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 149
+	gradient_value = [nan nan]
+	next step = 0.37
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 150
+	gradient_value = [nan nan]
+	next step = 0.37
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 151
+	gradient_value = [nan nan]
+	next step = 0.37
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 152
+	gradient_value = [nan nan]
+	next step = 0.37
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 153
+	gradient_value = [nan nan]
+	next step = 0.37
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 154
+	gradient_value = [nan nan]
+	next step = 0.37
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 155
+	gradient_value = [nan nan]
+	next step = 0.37
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 156
+	gradient_value = [nan nan]
+	next step = 0.37
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 157
+	gradient_value = [nan nan]
+	next step = 0.38
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 158
+	gradient_value = [nan nan]
+	next step = 0.38
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 159
+	gradient_value = [nan nan]
+	next step = 0.38
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 160
+	gradient_value = [nan nan]
+	next step = 0.38
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 161
+	gradient_value = [nan nan]
+	next step = 0.38
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 162
+	gradient_value = [nan nan]
+	next step = 0.38
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 163
+	gradient_value = [nan nan]
+	next step = 0.38
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 164
+	gradient_value = [nan nan]
+	next step = 0.38
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 165
+	gradient_value = [nan nan]
+	next step = 0.39
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 166
+	gradient_value = [nan nan]
+	next step = 0.39
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 167
+	gradient_value = [nan nan]
+	next step = 0.39
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 168
+	gradient_value = [nan nan]
+	next step = 0.39
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 169
+	gradient_value = [nan nan]
+	next step = 0.39
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 170
+	gradient_value = [nan nan]
+	next step = 0.39
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 171
+	gradient_value = [nan nan]
+	next step = 0.39
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 172
+	gradient_value = [nan nan]
+	next step = 0.39
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 173
+	gradient_value = [nan nan]
+	next step = 0.39
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 174
+	gradient_value = [nan nan]
+	next step = 0.40
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 175
+	gradient_value = [nan nan]
+	next step = 0.40
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 176
+	gradient_value = [nan nan]
+	next step = 0.40
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 177
+	gradient_value = [nan nan]
+	next step = 0.40
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 178
+	gradient_value = [nan nan]
+	next step = 0.40
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 179
+	gradient_value = [nan nan]
+	next step = 0.40
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 180
+	gradient_value = [nan nan]
+	next step = 0.40
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 181
+	gradient_value = [nan nan]
+	next step = 0.40
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 182
+	gradient_value = [nan nan]
+	next step = 0.40
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 183
+	gradient_value = [nan nan]
+	next step = 0.41
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 184
+	gradient_value = [nan nan]
+	next step = 0.41
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 185
+	gradient_value = [nan nan]
+	next step = 0.41
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 186
+	gradient_value = [nan nan]
+	next step = 0.41
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 187
+	gradient_value = [nan nan]
+	next step = 0.41
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 188
+	gradient_value = [nan nan]
+	next step = 0.41
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 189
+	gradient_value = [nan nan]
+	next step = 0.41
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 190
+	gradient_value = [nan nan]
+	next step = 0.41
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 191
+	gradient_value = [nan nan]
+	next step = 0.41
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 192
+	gradient_value = [nan nan]
+	next step = 0.42
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 193
+	gradient_value = [nan nan]
+	next step = 0.42
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 194
+	gradient_value = [nan nan]
+	next step = 0.42
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 195
+	gradient_value = [nan nan]
+	next step = 0.42
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 196
+	gradient_value = [nan nan]
+	next step = 0.42
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 197
+	gradient_value = [nan nan]
+	next step = 0.42
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 198
+	gradient_value = [nan nan]
+	next step = 0.42
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 199
+	gradient_value = [nan nan]
+	next step = 0.42
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 200
+	gradient_value = [nan nan]
+	next step = 0.42
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 201
+	gradient_value = [nan nan]
+	next step = 0.43
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 202
+	gradient_value = [nan nan]
+	next step = 0.43
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 203
+	gradient_value = [nan nan]
+	next step = 0.43
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 204
+	gradient_value = [nan nan]
+	next step = 0.43
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 205
+	gradient_value = [nan nan]
+	next step = 0.43
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 206
+	gradient_value = [nan nan]
+	next step = 0.43
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 207
+	gradient_value = [nan nan]
+	next step = 0.43
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 208
+	gradient_value = [nan nan]
+	next step = 0.43
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 209
+	gradient_value = [nan nan]
+	next step = 0.43
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 210
+	gradient_value = [nan nan]
+	next step = 0.43
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 211
+	gradient_value = [nan nan]
+	next step = 0.44
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 212
+	gradient_value = [nan nan]
+	next step = 0.44
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 213
+	gradient_value = [nan nan]
+	next step = 0.44
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 214
+	gradient_value = [nan nan]
+	next step = 0.44
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 215
+	gradient_value = [nan nan]
+	next step = 0.44
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 216
+	gradient_value = [nan nan]
+	next step = 0.44
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 217
+	gradient_value = [nan nan]
+	next step = 0.44
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 218
+	gradient_value = [nan nan]
+	next step = 0.44
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 219
+	gradient_value = [nan nan]
+	next step = 0.44
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 220
+	gradient_value = [nan nan]
+	next step = 0.44
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 221
+	gradient_value = [nan nan]
+	next step = 0.45
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 222
+	gradient_value = [nan nan]
+	next step = 0.45
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 223
+	gradient_value = [nan nan]
+	next step = 0.45
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 224
+	gradient_value = [nan nan]
+	next step = 0.45
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 225
+	gradient_value = [nan nan]
+	next step = 0.45
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 226
+	gradient_value = [nan nan]
+	next step = 0.45
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 227
+	gradient_value = [nan nan]
+	next step = 0.45
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 228
+	gradient_value = [nan nan]
+	next step = 0.45
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 229
+	gradient_value = [nan nan]
+	next step = 0.45
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 230
+	gradient_value = [nan nan]
+	next step = 0.45
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 231
+	gradient_value = [nan nan]
+	next step = 0.46
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 232
+	gradient_value = [nan nan]
+	next step = 0.46
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 233
+	gradient_value = [nan nan]
+	next step = 0.46
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 234
+	gradient_value = [nan nan]
+	next step = 0.46
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 235
+	gradient_value = [nan nan]
+	next step = 0.46
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 236
+	gradient_value = [nan nan]
+	next step = 0.46
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 237
+	gradient_value = [nan nan]
+	next step = 0.46
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 238
+	gradient_value = [nan nan]
+	next step = 0.46
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 239
+	gradient_value = [nan nan]
+	next step = 0.46
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 240
+	gradient_value = [nan nan]
+	next step = 0.46
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 241
+	gradient_value = [nan nan]
+	next step = 0.47
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 242
+	gradient_value = [nan nan]
+	next step = 0.47
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 243
+	gradient_value = [nan nan]
+	next step = 0.47
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 244
+	gradient_value = [nan nan]
+	next step = 0.47
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 245
+	gradient_value = [nan nan]
+	next step = 0.47
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 246
+	gradient_value = [nan nan]
+	next step = 0.47
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 247
+	gradient_value = [nan nan]
+	next step = 0.47
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 248
+	gradient_value = [nan nan]
+	next step = 0.47
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 249
+	gradient_value = [nan nan]
+	next step = 0.47
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 250
+	gradient_value = [nan nan]
+	next step = 0.47
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 251
+	gradient_value = [nan nan]
+	next step = 0.48
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 252
+	gradient_value = [nan nan]
+	next step = 0.48
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 253
+	gradient_value = [nan nan]
+	next step = 0.48
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 254
+	gradient_value = [nan nan]
+	next step = 0.48
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 255
+	gradient_value = [nan nan]
+	next step = 0.48
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 256
+	gradient_value = [nan nan]
+	next step = 0.48
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 257
+	gradient_value = [nan nan]
+	next step = 0.48
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 258
+	gradient_value = [nan nan]
+	next step = 0.48
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 259
+	gradient_value = [nan nan]
+	next step = 0.48
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 260
+	gradient_value = [nan nan]
+	next step = 0.48
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 261
+	gradient_value = [nan nan]
+	next step = 0.48
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 262
+	gradient_value = [nan nan]
+	next step = 0.49
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 263
+	gradient_value = [nan nan]
+	next step = 0.49
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 264
+	gradient_value = [nan nan]
+	next step = 0.49
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 265
+	gradient_value = [nan nan]
+	next step = 0.49
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 266
+	gradient_value = [nan nan]
+	next step = 0.49
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 267
+	gradient_value = [nan nan]
+	next step = 0.49
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 268
+	gradient_value = [nan nan]
+	next step = 0.49
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 269
+	gradient_value = [nan nan]
+	next step = 0.49
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 270
+	gradient_value = [nan nan]
+	next step = 0.49
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 271
+	gradient_value = [nan nan]
+	next step = 0.49
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 272
+	gradient_value = [nan nan]
+	next step = 0.49
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 273
+	gradient_value = [nan nan]
+	next step = 0.50
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 274
+	gradient_value = [nan nan]
+	next step = 0.50
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 275
+	gradient_value = [nan nan]
+	next step = 0.50
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 276
+	gradient_value = [nan nan]
+	next step = 0.50
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 277
+	gradient_value = [nan nan]
+	next step = 0.50
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 278
+	gradient_value = [nan nan]
+	next step = 0.50
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 279
+	gradient_value = [nan nan]
+	next step = 0.50
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 280
+	gradient_value = [nan nan]
+	next step = 0.50
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 281
+	gradient_value = [nan nan]
+	next step = 0.50
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 282
+	gradient_value = [nan nan]
+	next step = 0.50
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 283
+	gradient_value = [nan nan]
+	next step = 0.50
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 284
+	gradient_value = [nan nan]
+	next step = 0.51
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 285
+	gradient_value = [nan nan]
+	next step = 0.51
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 286
+	gradient_value = [nan nan]
+	next step = 0.51
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 287
+	gradient_value = [nan nan]
+	next step = 0.51
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 288
+	gradient_value = [nan nan]
+	next step = 0.51
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 289
+	gradient_value = [nan nan]
+	next step = 0.51
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 290
+	gradient_value = [nan nan]
+	next step = 0.51
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 291
+	gradient_value = [nan nan]
+	next step = 0.51
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 292
+	gradient_value = [nan nan]
+	next step = 0.51
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 293
+	gradient_value = [nan nan]
+	next step = 0.51
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 294
+	gradient_value = [nan nan]
+	next step = 0.51
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 295
+	gradient_value = [nan nan]
+	next step = 0.52
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 296
+	gradient_value = [nan nan]
+	next step = 0.52
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 297
+	gradient_value = [nan nan]
+	next step = 0.52
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 298
+	gradient_value = [nan nan]
+	next step = 0.52
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 299
+	gradient_value = [nan nan]
+	next step = 0.52
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+ITERATION 300
+	gradient_value = [nan nan]
+	next step = 0.52
+	step_size = [nan nan]
+	next_point = [nan nan]
+	f([nan nan]) = nan
+L1 = nan
+Reached stop condition at [nan nan], value = nan
