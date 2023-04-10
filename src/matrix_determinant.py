@@ -46,7 +46,7 @@ def matrix_determinant(mat: List[List[int]]) -> int:
     """
     if is_matrix_square(mat):
 
-        # base case for stopping recursion 
+        # base case for recursion 
         if len(mat) == 1:
             return mat[0][0]
 
@@ -56,7 +56,7 @@ def matrix_determinant(mat: List[List[int]]) -> int:
             determinant = 0
 
             for c_i_cross in range(len(mat)):
-                determinant += mat[r_i_cross][c_i_cross] * matrix_determinant(get_minor_matrix(mat, r_i_cross, c_i_cross)) * multiplier
+                determinant += multiplier * mat[r_i_cross][c_i_cross] * matrix_determinant(get_minor_matrix(mat, r_i_cross, c_i_cross))
                 multiplier *= -1
             return determinant 
 
