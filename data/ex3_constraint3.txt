@@ -1,0 +1,7 @@
+ITERATION 1
+	gradient_value = 9.27
+	step_size = 0.00927
+	next_point = 1.29073
+	f(1.29073) = 0.9018674081620167
+L2 = 0.009270000000000111
+Reached stop condition at 1.29073, value = 0.9018674081620167
