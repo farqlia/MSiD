@@ -46,12 +46,11 @@ def get_quality_factors(
 
     :return: a tuple of TN, FP, FN, TP
     """
-    # Number of classes is 2 because we assumed binary classification
+    # Number of classes is 2 because we assume binary classification
     confusion_matrix = get_confusion_matrix(y_true, y_pred, 2)
     flattened_cm = [metric for row in confusion_matrix for metric in row]
     # Convert the list to a tuple
     return (*flattened_cm, )
-
 
 
 def accuracy_score(y_true: List[int], y_pred: List[int]) -> float:
